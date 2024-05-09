@@ -3,7 +3,7 @@
 ### Professor: Richardson
 ### Colégio: Estadual prof izabel fonseca siqueira 
 
-[Git pages](https.antoninho01.github.io/Agrinho-2024/)
+[Git pages](https://antoninho01.github.io/Agrinho-2024/)
 
 [vercel](https://agrofloresta-agrinho-2024-three.vercel.app)
 
